@@ -102,7 +102,3 @@ pyinstaller -F -w -i icon.ico main.py
 
 [![Star History Chart](https://api.star-history.com/svg?repos=1061700625/WeChat_Article&type=Date)](https://www.star-history.com/#1061700625/WeChat_Article&Date)
 
----
-
-[![Powered by DartNode](https://dartnode.com/branding/DN-Open-Source-sm.png)](https://dartnode.com "Powered by DartNode - Free VPS for Open Source") 
-> 这个DN的响应巨巨巨巨巨慢，一个工单拖一周是洒洒水
